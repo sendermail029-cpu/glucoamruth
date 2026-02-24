@@ -115,9 +115,14 @@ export default function Home() {
           <div className="mt-2 flex items-center justify-center gap-4">
             <span className="text-5xl font-black text-[#c23616] sm:text-7xl">₹2,999/-</span>
           </div>
-          <div className="mt-4 inline-block bg-[#0e5a61] text-white px-8 py-3 rounded-full text-2xl font-black animate-pulse">
+          <a
+            href="https://wa.me/917842121315?text=%E0%B0%A8%E0%B0%BE%E0%B0%95%E0%B1%81%20%E0%B0%97%E0%B1%8D%E0%B0%B2%E0%B1%82%E0%B0%95%E0%B1%8B%E0%B0%85%E0%B0%AE%E0%B1%83%E0%B0%A4%E0%B1%8D%20(1%2B1%20%E0%B0%86%E0%B0%AB%E0%B0%B0%E0%B1%8D)%20%E0%B0%86%E0%B0%B0%E0%B1%8D%E0%B0%A1%E0%B0%B0%E0%B1%8D%20%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B0%BF."
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-4 inline-block rounded-full bg-[#0e5a61] px-8 py-3 text-2xl font-black text-white animate-pulse"
+          >
             BUY 1 GET 1 FREE (1+1 OFFER)
-          </div>
+          </a>
           <p className="mt-3 font-bold text-[#8f4b00]">ఒకటి కొంటే ఒకటి ఉచితం - కేవలం ఈరోజు మాత్రమే!</p>
         </div>
 
