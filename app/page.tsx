@@ -413,7 +413,7 @@ export default function Home() {
 </p>
         </div>
         <hr className="my-6 border-dashed" />
-        <p className="text-lg font-bold text-[#1f2a44]">📞 +91 7842121315</p>
+        <p className="text-lg font-bold text-[#1f2a44]">📞 +91 7780302055</p>
          <p className="text-lg font-bold text-[#1f2a44]">✉️ info.svwellness@gmail.com</p>
         <p className="mt-4 text-sm text-gray-500">గమనిక: ఇది ఆయుర్వేద సహాయక ఉత్పత్తి మాత్రమే. ఫలితాలు వ్యక్తికి వ్యక్తి మారవచ్చు.</p>
       </footer>
