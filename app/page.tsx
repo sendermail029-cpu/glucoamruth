@@ -99,7 +99,7 @@ export default function Home() {
         <div className="mt-8 flex justify-center">
           <div className="relative w-full max-w-md overflow-hidden rounded-3xl bg-white shadow-2xl border-4 border-[#f8f2e7]">
             <Image
-              src="/GLUU.png"
+              src="/GLUU2.png"
               alt="గ్లూకోఅమృత్ ఉత్పత్తి చిత్రం"
               width={900}
               height={1200}
