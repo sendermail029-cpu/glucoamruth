@@ -116,7 +116,7 @@ export default function Home() {
             <span className="text-5xl font-black text-[#c23616] sm:text-7xl">₹2,999/-</span>
           </div>
           <a
-            href="https://wa.me/917842121315?text=%E0%B0%A8%E0%B0%BE%E0%B0%95%E0%B1%81%20%E0%B0%97%E0%B1%8D%E0%B0%B2%E0%B1%82%E0%B0%95%E0%B1%8B%E0%B0%85%E0%B0%AE%E0%B1%83%E0%B0%A4%E0%B1%8D%20(1%2B1%20%E0%B0%86%E0%B0%AB%E0%B0%B0%E0%B1%8D)%20%E0%B0%86%E0%B0%B0%E0%B1%8D%E0%B0%A1%E0%B0%B0%E0%B1%8D%20%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B0%BF."
+            href="https://wa.me/917780302055?text=%E0%B0%A8%E0%B0%BE%E0%B0%95%E0%B1%81%20%E0%B0%97%E0%B1%8D%E0%B0%B2%E0%B1%82%E0%B0%95%E0%B1%8B%E0%B0%85%E0%B0%AE%E0%B1%83%E0%B0%A4%E0%B1%8D%20(1%2B1%20%E0%B0%86%E0%B0%AB%E0%B0%B0%E0%B1%8D)%20%E0%B0%86%E0%B0%B0%E0%B1%8D%E0%B0%A1%E0%B0%B0%E0%B1%8D%20%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B0%BF."
             target="_blank"
             rel="noopener noreferrer"
             className="mt-4 inline-block rounded-full bg-[#0e5a61] px-8 py-3 text-2xl font-black text-white animate-pulse"
@@ -330,7 +330,7 @@ export default function Home() {
                         `*Total Amount:* ₹2999%0A` +
                         `*Online Discounted Price:* ₹2699`;
         
-        window.open(`https://wa.me/917842121315?text=${message}`, '_blank');
+        window.open(`https://wa.me/917780302055?text=${message}`, '_blank');
       }}
       className="mt-8 space-y-5"
     >
@@ -422,7 +422,7 @@ export default function Home() {
       <section className="fixed bottom-0 left-0 right-0 z-50 border-t border-[#e6d2b6] bg-[#fff9ee]/95 px-3 py-3 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between">
           <p className="text-lg font-black text-[#c23616]">Special Offer: ₹2999 (1+1)</p>
-          <a href="https://wa.me/917842121315" className="bg-[#18a558] text-white px-6 py-2 rounded-full font-black">WhatsApp Order</a>
+          <a href="https://wa.me/917780302055" className="bg-[#18a558] text-white px-6 py-2 rounded-full font-black">WhatsApp Order</a>
         </div>
       </section>
     </main>
